@@ -39,7 +39,7 @@ int main()
   SimpleConsole::puts("WELCOME TO MY KERNEL!\n");
   SimpleConsole::puts("      ");
   SimpleConsole::set_TextColor(GREEN, RED);
-  SimpleConsole::puts("<NAME>\n");
+  SimpleConsole::puts("<SHAHIN JOHN J S>\n");
   
   /* -- LOOP FOREVER! */
   for(;;);
